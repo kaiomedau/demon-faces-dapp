@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD4E7Ab9d50944fdC402f0cc8922A09B468b71e3d",
+  "SCAN_LINK": "https://polygonscan.com/address/0xD4E7Ab9d50944fdC402f0cc8922A09B468b71e3d#writeContract",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Demon Faces",
+  "SYMBOL": "DMF",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 1,
+  "DISPLAY_COST": 0.0,
+  "GAS_LIMIT": 320000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
